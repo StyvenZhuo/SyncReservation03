@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hi, welcome to navbar reservation page!!!</h1>
+    <h2>glhf!!!</h2>
 </body>
 </html>
